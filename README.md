@@ -18,6 +18,9 @@ My name is Asim. I'm a current Computer Engineering student at the Univeristy of
 [![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![My Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
 
 
