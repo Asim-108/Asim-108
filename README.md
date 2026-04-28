@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hello 👋
 My name is Asim. I'm a current Computer Engineering student at the Univeristy of Toronto with a focus on backend software engineering, and a minor in Artificial Intelligence
 
 
