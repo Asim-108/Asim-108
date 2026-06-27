@@ -1,8 +1,20 @@
-### Hello 👋
-My name is Asim. I'm a current Computer Engineering student at the Univeristy of Toronto with a focus on backend software engineering, and a minor in Artificial Intelligence
+# 🚀 About Me
+I am a Computer Engineering graduate from the University of Toronto with a passion for building high-performance systems at the intersection of Artificial Intelligence and Low-Level Software
 
+My technical focus lies in bridges: bridging high-level machine learning intelligence with the raw hardware execution needed to make it fast, efficient, and production-ready. Whether it’s optimizing GPU inference pipelines, engineering agentic AI systems that interact directly with OS-level infrastructure, or writing bare-metal embedded software, I thrive on solving complex, performance-critical engineering problems.
 
+## 🧠 Core Focus & Technical InterestsAI Systems & Engineering: 
+- Building and optimizing deployment pipelines for Deep Learning models, Vision/Image processing, Transformers, and LLMs. I am particularly fascinated by Agentic AI systems and the Model Context Protocol (MCP) ecosystem.
+- Performance Optimization & Concurrency: Eliminating bottlenecks through cache-aware programming, multi-threading, shared memory, and zero-copy GPU architectures
+- Embedded & Systems Programming: Writing bare-metal code, designing memory-mapped device drivers, and working directly with hardware-software interfaces.
 
+## 🛠️ Technical Skillset:
+- **Languages & Core Tools:** C/C++, Python, Linux, Git,GDB, GProf & GCov, Docker 
+- **Embedded & Concurrent Systems:** Memory-Mapped I/O, Bare-Metal Programming, Multi-Threading, Synchronization Primitives, Shared Memory, Device Drivers, Cache-Aware Programming, Memory Allocation, Virtual Memory 
+- **Machine Learning:** Deep Learning, CNNs, CV/Image Processing, GANs, RNNs, Transformer Architectures, LLMs, RAG, Self-supervised/Unsupervised Learning, Agentic AI, MCP 
+- **Frameworks & Libraries:** Pytorch, Tensorflow, OpenGL, Scikit-learn, Numpy, Pandas 
+
+<!--
 ## My Skills
 ![My Skills](https://skillicons.dev/icons?i=c)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
@@ -22,7 +34,7 @@ My name is Asim. I'm a current Computer Engineering student at the Univeristy of
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
-
+-->
 
 
 <!--
