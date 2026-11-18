@@ -9,7 +9,7 @@ My technical focus lies in bridges: bridging high-level machine learning intelli
 - Embedded & Systems Programming: Writing bare-metal code, designing memory-mapped device drivers, and working directly with hardware-software interfaces.
 
 ## 🛠️ Technical Skillset:
-- **Languages & Core Tools:** C/C++, Python, Linux, Git,GDB, GProf & GCov, Docker 
+- **Languages & Core Tools:** C/C++, Python, CUDA, Linux, Git,GDB, GProf & GCov, Docker 
 - **Embedded & Concurrent Systems:** Memory-Mapped I/O, Bare-Metal Programming, Multi-Threading, Synchronization Primitives, Shared Memory, Device Drivers, Cache-Aware Programming, Memory Allocation, Virtual Memory 
 - **Machine Learning:** Deep Learning, CNNs, CV/Image Processing, GANs, RNNs, Transformer Architectures, LLMs, RAG, Self-supervised/Unsupervised Learning, Agentic AI, MCP 
 - **Frameworks & Libraries:** Pytorch, Tensorflow, OpenGL, Scikit-learn, Numpy, Pandas 
